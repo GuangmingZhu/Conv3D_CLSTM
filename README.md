@@ -1,5 +1,7 @@
 # Conv3D_CLSTM
 
+## The code of the new architecture "Res3D+ConvLSTM+MobileNet" implemented by TF-1.2 has been released in https://github.com/GuangmingZhu/AttentionConvLSTM, this repository is not in support now!
+
 ## Prerequisites
 
 1) Tensorflow-0.11 <br/>
